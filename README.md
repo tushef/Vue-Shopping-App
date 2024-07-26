@@ -29,6 +29,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Project Description
+Built on 2019 as a prototype for a studio based in Tirana, as a voluntary work in exchange for experience. 
 
 o Using Vue-Router to navigate through the main VueJs blocks, Shopping Block and Cart Block
 
@@ -38,8 +39,11 @@ o Using VueX to store data, mutate them, fetch them and to execute the logic nee
 
 o It implements different versions of pagination depending on the usercase
 
-o It is designed with CSS and SCSS in order to be more user-friendly
+o It is designed with SCSS for the responsiveness
 
-o Built on 2019 as a prototype for a studio based in Tirana, as a voluntary work in exchange for experience
+o It was build with the usage of AWS S3 and EC2
+
+
+
 
 
