@@ -41,7 +41,7 @@ o It implements different versions of pagination depending on the usercase
 
 o It is designed with SCSS for the responsiveness
 
-o It was build with the usage of AWS S3 and EC2
+o Deployed Laravel code on EC2
 
 o Laravel code can be found on another branch
 
